@@ -1,6 +1,8 @@
 # Ground_Contact_Evaluation_For_Biped_Robots
 
-The repository constitutes of PCB design and code for the project "Ground_Contact_Evaluation_For_Biped_Robots". The project constitutes three PCBs:
+The repository constitutes of PCB design and code for the project "Ground_Contact_Evaluation_For_Biped_Robots".
+
+The project constitutes three PCBs:
 
 1.) Main PCB: The PCB houses the MCU, IMU, Power Supply Circuit, CAN and USB circuits.
 
@@ -11,6 +13,7 @@ The repository constitutes of PCB design and code for the project "Ground_Contac
 The folder Code_STM32 includes the C++ code.
 
 1.) Include files - Code_STM32/Core/Inc
+
 2.) Source files - Code_STM32/Core/Src
 
 ## **Block diagram of the system:**
