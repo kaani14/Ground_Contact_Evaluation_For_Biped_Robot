@@ -1,0 +1,8 @@
+stl_vector.h:519:7:std::vector<_Tp, _Alloc>::vector(std::vector<_Tp, _Alloc>::size_type, const value_type&, const allocator_type&) [with _Tp = float; _Alloc = std::allocator<float>]	16	static
+stl_vector.h:519:7:std::vector<_Tp, _Alloc>::vector(std::vector<_Tp, _Alloc>::size_type, const value_type&, const allocator_type&) [with _Tp = std::vector<float>; _Alloc = std::allocator<std::vector<float> >]	32	static
+stl_vector.h:330:7:std::_Vector_base<_Tp, _Alloc>::~_Vector_base() [with _Tp = float; _Alloc = std::allocator<float>]	8	static
+matrix_math.cpp:15:8:matrix operator+(matrix, matrix)	56	static
+matrix_math.cpp:27:8:matrix operator-(matrix, matrix)	56	static
+matrix_math.cpp:39:8:matrix operator*(matrix, matrix)	80	static
+matrix_math.cpp:60:8:matrix inverse(matrix)	56	static
+matrix_math.cpp:75:8:matrix transpose(matrix)	56	static

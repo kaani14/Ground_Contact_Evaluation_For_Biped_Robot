@@ -1,0 +1,18 @@
+stl_vector.h:347:7:void std::_Vector_base<_Tp, _Alloc>::_M_deallocate(std::_Vector_base<_Tp, _Alloc>::pointer, std::size_t) [with _Tp = float; _Alloc = std::allocator<float>]	0	static
+new_allocator.h:102:7:_Tp* __gnu_cxx::new_allocator<_Tp>::allocate(__gnu_cxx::new_allocator<_Tp>::size_type, const void*) [with _Tp = float]	8	static
+icm42605.cpp:24:6:void ICM42605::Init()	48	static
+stl_construct.h:105:9:static void std::_Destroy_aux<<anonymous> >::__destroy(_ForwardIterator, _ForwardIterator) [with _ForwardIterator = std::vector<float>*; bool <anonymous> = false]	16	static
+stl_vector.h:675:7:std::vector<_Tp, _Alloc>::~vector() [with _Tp = std::vector<float>; _Alloc = std::allocator<std::vector<float> >]	8	static
+icm42605.cpp:18:1:ICM42605::~ICM42605()	8	static
+stl_algobase.h:375:2:static _Tp* std::__copy_move<_IsMove, true, std::random_access_iterator_tag>::__copy_m(const _Tp*, const _Tp*, _Tp*) [with _Tp = float; bool _IsMove = false]	8	static
+stl_vector.h:1574:2:void std::vector<_Tp, _Alloc>::_M_range_initialize(_ForwardIterator, _ForwardIterator, std::forward_iterator_tag) [with _ForwardIterator = const float*; _Tp = float; _Alloc = std::allocator<float>]	24	static
+vector.tcc:300:7:void std::vector<_Tp, _Alloc>::_M_assign_aux(_ForwardIterator, _ForwardIterator, std::forward_iterator_tag) [with _ForwardIterator = const float*; _Tp = float; _Alloc = std::allocator<float>]	24	static
+icm42605.cpp:13:1:ICM42605::ICM42605()	16	static
+stl_algobase.h:375:2:static _Tp* std::__copy_move<_IsMove, true, std::random_access_iterator_tag>::__copy_m(const _Tp*, const _Tp*, _Tp*) [with _Tp = short int; bool _IsMove = false]	8	static
+vector.tcc:300:7:void std::vector<_Tp, _Alloc>::_M_assign_aux(_ForwardIterator, _ForwardIterator, std::forward_iterator_tag) [with _ForwardIterator = const short int*; _Tp = short int; _Alloc = std::allocator<short int>]	24	static
+vector.tcc:198:5:std::vector<_Tp, _Alloc>& std::vector<_Tp, _Alloc>::operator=(const std::vector<_Tp, _Alloc>&) [with _Tp = float; _Alloc = std::allocator<float>]	32	static
+stl_vector.h:550:7:std::vector<_Tp, _Alloc>::vector(const std::vector<_Tp, _Alloc>&) [with _Tp = float; _Alloc = std::allocator<float>]	16	static
+vector.tcc:300:7:void std::vector<_Tp, _Alloc>::_M_assign_aux(_ForwardIterator, _ForwardIterator, std::forward_iterator_tag) [with _ForwardIterator = const std::vector<float>*; _Tp = std::vector<float>; _Alloc = std::allocator<std::vector<float> >]	32	static
+icm42605.cpp:42:7:void ICM42605::ReadAcc()	88	static
+icm42605.cpp:80:7:void ICM42605::ReadGyro()	88	static
+icm42605.cpp:62:7:void ICM42605::GyroCalibrate()	16	static
