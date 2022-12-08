@@ -1,7 +1,3 @@
-# PCB_design_sample
-The repository contains the samples of schematic and PCB docs.
-
-
 # Ground_Contact_Evaluation_For_Biped_Robots
 
 The repository constitutes of PCB design for the project "Ground_Contact_Evaluation_For_Biped_Robots". The project constitutes three PCBs:
